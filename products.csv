@@ -1,0 +1,16 @@
+product_id,product_name,category,sub_category,standard_cost
+P001,Product_01,Automotive,Component,271.88
+P002,Product_02,Industrial,Finished Good,548.81
+P003,Product_03,Automotive,Module,256.72
+P004,Product_04,Consumer,Module,468.11
+P005,Product_05,Consumer,Finished Good,83.56
+P006,Product_06,Consumer,Component,365.83
+P007,Product_07,Automotive,Component,321.98
+P008,Product_08,Industrial,Finished Good,459.78
+P009,Product_09,Automotive,Finished Good,237.81
+P010,Product_10,Automotive,Component,541.3
+P011,Product_11,Industrial,Module,203.32
+P012,Product_12,Automotive,Finished Good,574.58
+P013,Product_13,Industrial,Component,439.82
+P014,Product_14,Industrial,Finished Good,319.9
+P015,Product_15,Industrial,Component,190.44
